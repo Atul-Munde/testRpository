@@ -1,2 +1,2 @@
 # testRpository
-testRepository by Atul munde saheb
+testRepository by Atul munde
